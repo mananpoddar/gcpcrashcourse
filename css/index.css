@@ -44,7 +44,7 @@ body{
 .dsc-logo{
     height: 10%;
     width: 30%;
-    background: url('../images/FullTextLogo.svg') center center no-repeat;
+    background: url('../images/FullTextLogo.png') center center no-repeat;
     background-size:100% auto;
     margin: auto auto;
 }
@@ -211,11 +211,13 @@ body{
 }
 
 .android{
+  margin-left: 100px;
     background: url('../images/Android.svg') center center;
     background-size: cover;
 }
 
 .ml{
+  margin-left: 50px;
     background: url('../images/ML.svg') center center;
     background-size: cover;
 }
